@@ -1,2 +1,2 @@
-# SRS-Document-for-Online-Shopping-Website
-Prepared a System Requirements Specification Document for Amazon_clone website. 
+# SRS-Document-for- Amazon-clone-Website
+Prepared a System Requirements Specification Document for Amazon clone website. 
